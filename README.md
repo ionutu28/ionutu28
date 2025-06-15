@@ -48,7 +48,8 @@ The game includes features like saved scores and graphical improvements, helping
 
 ---
 
-### 4️⃣ [Game Snake MATLAB]
+### 4️⃣ <a href="https://github.com/ionutu28/Game-snake-MATLAB.git">[Game Snake MATLAB]</a>
+ 
 **Description:**  
 This project is a version of the classic Snake game built in MATLAB.  
 It features a graphical interface, full keyboard controls, real-time movement using a timer, score saving, and a restart button.  

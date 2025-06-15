@@ -1,54 +1,70 @@
-# 👋 Salut! Sunt [Numele Tău]
+# 👋 Hello! I'm Sima Ionut-Marian
 
-Student la **[Facultatea/Universitatea ta]**, specializarea **[Specializarea ta]**.  
-Pasionat de [programare, electronică, design, etc.] și dornic să învăț prin proiecte practice.
-
----
-
-## 🚀 Despre mine
-
-- 🎓 Student la **[Facultatea/Universitatea ta]**  
-- 💡 Interese: [ex: inteligență artificială, circuite electrice, dezvoltare web]  
-- 🛠️ Tehnologii preferate: [ex: Python, MATLAB, React]  
-- 🤝 Îmi place să lucrez în echipă și să învăț lucruri noi
+Student at **Transilvania University of Brașov, Faculty of Electrical Engineering and Computer Science**, majoring in **ETTI**.  
+Passionate about [Java Programming, C++ Programming, HTML/CSS] and eager to learn through hands-on projects.
 
 ---
 
-## 📂 Proiecte
+## 🚀 About Me
 
-### 1️⃣ [Numele Proiectului 1]
-**Descriere:**  
-[Scurtă descriere a proiectului, ex: Aplicație web pentru gestionarea notițelor personale.]  
-**Tehnologii:** [ex: HTML, CSS, JavaScript]  
-🔗 [Vezi proiectul](./proiecte/proiect1)
-
----
-
-### 2️⃣ [Numele Proiectului 2]
-**Descriere:**  
-[Scurtă descriere a proiectului, ex: Simulare circuit electric cu metoda curenților ciclici.]  
-**Tehnologii:** [ex: Python, MATLAB]  
-🔗 [Vezi proiectul](./proiecte/proiect2)
+- 🎓 Student at **Faculty of Electrical Engineering and Computer Science**  
+- 💡 Interests: [Java Programming, C++ Programming, HTML/CSS]  
+- 🛠️ Preferred tools & technologies: [MATLAB, Visual Studio Code, IntelliJ IDEA, Arduino]  
+- 🤝 I enjoy working in teams and constantly learning new things
 
 ---
 
-### 3️⃣ [Numele Proiectului 3]
-**Descriere:**  
-[Scurtă descriere a proiectului, ex: Site personal realizat cu GitHub Pages.]  
-**Tehnologii:** [ex: HTML, CSS]  
-🔗 [Vezi proiectul](./proiecte/proiect3)
+## 📂 Projects
+
+### 1️⃣ [Game Tetris C++]
+**Description:**  
+I created a Tetris game in C++, applying object-oriented programming and collision detection algorithms.  
+The project includes mechanics for piece rotation and movement, a scoring system, and graphical optimizations.
+
+**Technologies:** [Visual Studio Code, C++]  
+🔗 [https://www.youtube.com/watch?v=jcUctrLC-7M]
+
+---
+
+### 2️⃣ [Obstacle Avoiding Robot]
+**Description:**  
+I developed an autonomous robot using Arduino Uno and ultrasonic sensors, capable of detecting and avoiding obstacles.  
+Its behavior is managed through C++ algorithms, combining creative solutions with modern technology to optimize navigation in unknown environments.
+
+**Technologies:** [Arduino]  
+🔗 [https://robotlk.com/how-to-make-arduino-obstacle-avoiding-robot/]
+
+---
+
+### 3️⃣ [Game Snake Java]
+**Description:**  
+I built a classic Snake game in Java, learning about object-oriented programming and user interface design.  
+The game includes features like saved scores and graphical improvements, helping me strengthen my skills in creating interactive applications.
+
+**Technologies:** [IntelliJ IDEA]
+
+---
+
+### 4️⃣ [Game Snake MATLAB]
+**Description:**  
+This project is a version of the classic Snake game built in MATLAB.  
+It features a graphical interface, full keyboard controls, real-time movement using a timer, score saving, and a restart button.  
+The code is modular and easy to extend with new features.
+
+**Technologies:** [MATLAB]  
+🔗 [https://en.wikipedia.org/wiki/Snake_(video_game_genre)]  
+🔗 [https://www.mathworks.com/help/matlab/ref/rectangle.html]  
+🔗 [https://www.mathworks.com/help/matlab/ref/timer.html]  
+🔗 [https://www.mathworks.com/help/matlab/ref/uicontrol.html]
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: [emailul tău]  
-- 🔗 LinkedIn: [link profil LinkedIn]  
-- 🌐 Alte profiluri/proiecte: [link-uri utile]
+- 📧 Email: [isima6187@gmail.com]  
+- 🔗 LinkedIn: [www.linkedin.com/in/ionut-marian-sima-866b43362]  
+- 📞 Phone: [0761024045]
 
 ---
 
-✨ Mulțumesc pentru vizită și sper să ne auzim curând!
-
-
-
+✨ Thanks for visiting my portfolio! Feel free to get in touch.

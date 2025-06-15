@@ -27,7 +27,8 @@ The project includes mechanics for piece rotation and movement, a scoring system
 
 ---
 
-### 2️⃣ [Obstacle Avoiding Robot]
+### 2️⃣ <a href="https://github.com/ionutu28/Obstacle-avoiding-robot.git">[Obstacle Avoiding Robot]</a>
+ 
 **Description:**  
 I developed an autonomous robot using Arduino Uno and ultrasonic sensors, capable of detecting and avoiding obstacles.  
 Its behavior is managed through C++ algorithms, combining creative solutions with modern technology to optimize navigation in unknown environments.

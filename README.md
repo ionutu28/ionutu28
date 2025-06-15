@@ -16,7 +16,7 @@ Passionate about [Java Programming, C++ Programming, HTML/CSS] and eager to lear
 
 ## 📂 Projects
 
-### 1️⃣ [Game Tetris C++]
+### 1️⃣ <a href="https://github.com/ionutu28/Game-Tetris-C-.git">[Game Tetris C++]</a>
 
 **Description:**  
 I created a Tetris game in C++, applying object-oriented programming and collision detection algorithms.  

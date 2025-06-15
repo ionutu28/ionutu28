@@ -16,7 +16,7 @@ Passionate about [Java Programming, C++ Programming, HTML/CSS] and eager to lear
 
 ## 📂 Projects
 
-### 1️⃣   <a href="https://github.com/ionutu28/Game-Snake-Java.git">[Game Tetris C++]</a>
+### 1️⃣ [Game Tetris C++]
 
 **Description:**  
 I created a Tetris game in C++, applying object-oriented programming and collision detection algorithms.  
@@ -37,7 +37,8 @@ Its behavior is managed through C++ algorithms, combining creative solutions wit
 
 ---
 
-### 3️⃣ [Game Snake Java]
+### 3️⃣ <a href="https://github.com/ionutu28/Game-Snake-Java">[Game Snake Java]</a>
+
 **Description:**  
 I built a classic Snake game in Java, learning about object-oriented programming and user interface design.  
 The game includes features like saved scores and graphical improvements, helping me strengthen my skills in creating interactive applications.

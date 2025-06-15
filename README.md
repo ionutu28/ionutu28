@@ -2,12 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>CV - Ionuț Marian Sima</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      line-height: 1.6;
       margin: 40px;
       background-color: #f9f9f9;
       color: #333;
@@ -20,7 +19,7 @@
       text-decoration: none;
     }
     .section {
-      margin-bottom: 40px;
+      margin-bottom: 30px;
     }
     ul {
       padding-left: 20px;
@@ -29,15 +28,20 @@
 </head>
 <body>
 
-  <h1>Ionuț Marian Sima</h1>
-  <p><strong>Telefon:</strong> 0761024045</p>
+  <h1>Sima Ionuț-Marian</h1>
+  <p><strong>Phone:</strong> 0761024045</p>
   <p><strong>Email:</strong> <a href="mailto:isima6187@gmail.com">isima6187@gmail.com</a></p>
-  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ionut-marian-sima-866b43362" target="_blank">
-    linkedin.com/in/ionut-marian-sima
-  </a></p>
+  <p><strong>LinkedIn:</strong> 
+    <a href="https://www.linkedin.com/in/ionut-marian-sima-866b43362" target="_blank">
+      linkedin.com/in/ionut-marian-sima
+    </a>
+  </p>
+  <p><strong>GitHub Project:</strong> 
+    <a href="https://github.com/ionutu28/project.git" target="_blank">github.com/ionutu28/project.git</a>
+  </p>
 
   <div class="section">
-    <h2>📌 Summary</h2>
+    <h2>📝 Summary</h2>
     <p>
       I am a student at Transilvania University, Faculty of Electronics Engineering and Computer Science.
       I am eager to learn more and develop my practical skills in a professional environment.
@@ -61,46 +65,18 @@
     <h2>💼 Work Experience</h2>
     <ul>
       <li>
-        <strong>Volunteer – Ecotic (11/05/2022 – 12/05/2022)</strong><br/>
-        Participated in organizing awareness campaigns about electronic waste recycling.<br/>
-        Helped inform the community while developing communication, organization, and teamwork skills.
+        <strong>Volunteer – Ecotic (11/05/2022 – 12/05/2022)</strong><br />
+        Participated in awareness campaigns about electronic waste recycling.<br />
+        Contributed to informing the community and developed communication, organization, and teamwork skills.
       </li>
     </ul>
   </div>
 
   <div class="section">
-    <h2>🧪 Projects</h2>
-    <ul>
-      <li>
-        <strong>Snake Game – MATLAB (May 2025)</strong><br/>
-        Graphical interface with game grid and score display.<br/>
-        Controlled with arrow keys and 'P' key to pause.<br/>
-        Random food generation and high score saved automatically.<br/>
-        Restart button for quick reset.<br/>
-        Simple and extensible code structure.
-      </li>
-      <li>
-        <strong>Obstacle Avoiding Robot (Oct 2024 – Jan 2025)</strong><br/>
-        Arduino-based robot using sensors and microcontroller for real-time decisions.
-      </li>
-      <li>
-        <strong>Snake Game – Java (Nov 2024 – Jan 2025)</strong><br/>
-        Developed classic Snake using Java and Swing.<br/>
-        Implemented movement, collision, scoring, and game-over logic using clean OOP design.
-      </li>
-      <li>
-        <strong>Tetris Game – C++ (Dec 2023 – Jan 2024)</strong><br/>
-        Built Tetris game using OOP principles.<br/>
-        Implemented piece rotation, movement, scoring logic with focus on performance and structure.
-      </li>
-    </ul>
-  </div>
-
-  <div class="section">
-    <h2>🧠 Soft Skills</h2>
+    <h2>🛠️ Skills</h2>
     <ul>
       <li>Fast Learner</li>
-      <li>Communication</li>
+      <li>Communication Skills</li>
       <li>Creativity and Innovation</li>
       <li>Analytical Skills</li>
     </ul>
@@ -124,5 +100,43 @@
     </ul>
   </div>
 
+  <div class="section">
+    <h2>📁 Projects</h2>
+    <ul>
+      <li>
+        <strong>Snake Game – MATLAB (17/05/2025 – 28/05/2025)</strong><br />
+        Snake game with GUI, grid, score, and restart button.<br />
+        Uses arrow keys and 'P' to pause.<br />
+        Food appears randomly and high score is saved automatically.<br />
+        <strong>Links:</strong><br />
+        <a href="https://en.wikipedia.org/wiki/Snake_(video_game_genre)" target="_blank">Wikipedia</a><br />
+        <a href="https://www.mathworks.com/help/matlab/ref/rectangle.html" target="_blank">MATLAB rectangle</a><br />
+        <a href="https://www.mathworks.com/help/matlab/ref/timer.html" target="_blank">MATLAB timer</a><br />
+        <a href="https://www.mathworks.com/help/matlab/ref/uicontrol.html" target="_blank">MATLAB uicontrol</a>
+      </li>
+
+      <li>
+        <strong>Obstacle Avoiding Robot (02/10/2024 – 17/01/2025)</strong><br />
+        Arduino-based robot using sensors for real-time obstacle detection.<br />
+        <a href="https://www.youtube.com/watch?v=0X_S7BlKe-M" target="_blank">YouTube Demo</a><br />
+        <a href="https://robotlk.com/how-to-make-arduino-obstacle-avoiding-robot/" target="_blank">Build Guide</a>
+      </li>
+
+      <li>
+        <strong>Snake Game – Java (15/11/2024 – 20/01/2025)</strong><br />
+        Classic Snake game using Java and Swing.<br />
+        Includes scoring, collisions, game over, and clean OOP structure.
+      </li>
+
+      <li>
+        <strong>Tetris Game – C++ (06/12/2023 – 17/01/2024)</strong><br />
+        Built in C++ using OOP and collision logic.<br />
+        Implements piece rotation, movement, scoring, and performance optimization.<br />
+        <a href="https://www.youtube.com/watch?v=jcUctrLC-7M" target="_blank">YouTube Demo</a>
+      </li>
+    </ul>
+  </div>
+
 </body>
 </html>
+
